@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493175847585",
+    "project_id": "quickbites-47a20",
+    "storage_bucket": "quickbites-47a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493175847585:android:7b6868da16898502aa8ee0",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIG3n2UfbuphADMdEDpgvZtlwa0LWt0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
