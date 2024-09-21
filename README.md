@@ -9,5 +9,5 @@ QuickBites is a comprehensive food delivery app designed using Flutter and Fireb
 ## Download APK
 You can download the QuickBites APK file by clicking the link below:
 
-[Download QuickBites APK](https://github.com/knilesh2212/Quick-Bites/blob/main/QuickBites.apk)
+[Download QuickBites APK](https://github.com/knilesh2212/Quick-Bites/raw/main/QuickBites.apk)
 
