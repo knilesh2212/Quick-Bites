@@ -1,22 +1,68 @@
-# QuickBites - Food Delivery Application  
+# QuickBite App
 
-## Introduction  
-**QuickBites** is a mobile food delivery application developed as part of my **Innovative Assignment** project. It harnesses the power of **Flutter** and **Firebase** to deliver a smooth and user-friendly experience for ordering food online.  
+Welcome to **Quick Bite App**, a Flutter-based food delivery application designed to make ordering your favorite meals seamless and enjoyable.
 
-## Features  
-QuickBites is designed to simplify and enhance the food delivery process. Key features include:  
-- **User Authentication**: Secure login and registration for a personalized experience.  
-- **Food Categories**: Browse and explore a wide variety of food options.  
-- **Cart Management**: Add, update, or remove items from your cart effortlessly.  
-- **Order Tracking**: Monitor the status of your orders in real time.  
-- **Theme Customization**: Switch between light and dark modes for a tailored interface.  
-- **Secure Payments**: Make payments safely and conveniently.  
+## Features
 
-## Technologies Used  
-- **Flutter**: For building a responsive and visually appealing user interface.  
-- **Firebase**: For authentication, database management, and real-time order tracking.  
+1. **User Authentication**
+   - Secure and easy login and registration process for new and returning users.
 
-## Download the App  
-Try QuickBites today! Download the APK by clicking the link below:  
+2. **Food Categories**
+   - Browse an extensive selection of food items across various categories to find your next meal.
 
-[Download QuickBites APK](https://github.com/knilesh2212/Quick-Bites/raw/main/QuickBites.apk)  
+3. **Cart Management**
+   - Add, remove, and modify items in your cart effortlessly for a smooth shopping experience.
+
+4. **Order Tracking**
+   - Stay updated with real-time tracking of your orders from preparation to delivery.
+
+5. **Theme Customization**
+   - Switch between light and dark modes to match your style and preferences.
+
+6. **Secure Payments**
+   - Enjoy a safe and hassle-free payment experience with multiple payment options.
+
+## Tech Stack
+
+- **Flutter**: For creating a beautiful and responsive user interface.
+- **Firebase Authentication**: For secure user login and registration.
+- **Cloud Firestore**: For real-time data storage and retrieval.
+- **Google Maps API**: For real-time order tracking.
+- **Stripe API**: For secure and efficient payment processing.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/knilesh2212/Quick-Bites.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Quick-Bites
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Contribution
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature/bugfix.
+3. Commit your changes with clear messages.
+4. Create a pull request for review.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
