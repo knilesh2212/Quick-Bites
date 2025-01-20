@@ -4,23 +4,13 @@ Welcome to **Quick Bite App**, a Flutter-based food delivery application designe
 
 ## Features
 
-1. **User Authentication**
-   - Secure and easy login and registration process for new and returning users.
+1. **User Authentication**: Secure and easy login and registration for users.
+2. **Food Categories**: Explore a wide variety of food items across categories.
+3. **Cart Management**: Effortlessly add, remove, and modify items in your cart.
+4. **Order Tracking**: Get real-time updates on your order's status.
+5. **Theme Customization**: Switch between light and dark modes.
+6. **Secure Payments**: Safe and seamless payment options for hassle-free transactions.
 
-2. **Food Categories**
-   - Browse an extensive selection of food items across various categories to find your next meal.
-
-3. **Cart Management**
-   - Add, remove, and modify items in your cart effortlessly for a smooth shopping experience.
-
-4. **Order Tracking**
-   - Stay updated with real-time tracking of your orders from preparation to delivery.
-
-5. **Theme Customization**
-   - Switch between light and dark modes to match your style and preferences.
-
-6. **Secure Payments**
-   - Enjoy a safe and hassle-free payment experience with multiple payment options.
 
 ## Tech Stack
 
