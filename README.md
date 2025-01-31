@@ -1,6 +1,13 @@
+
 # QuickBite App
 
 Welcome to **Quick Bite App**, a Flutter-based food delivery application designed to make ordering your favorite meals seamless and enjoyable.
+
+## Device Preview
+Experience the app live: [QuickBites](https://quickbites-47a20.web.app/)
+
+## App Download
+Download the APK (Android): [QuickBites APK](https://github.com/knilesh2212/Quick-Bites/raw/main/QuickBites.apk)
 
 ## Features
 
@@ -17,33 +24,5 @@ Welcome to **Quick Bite App**, a Flutter-based food delivery application designe
 - **Firebase Authentication**: For secure user login and registration.
 - **Cloud Firestore**: For real-time data storage and retrieval.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/knilesh2212/Quick-Bites.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Quick-Bites
-   ```
-
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app:
-   ```bash
-   flutter run
-   ```
-
 ## Contribution
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature/bugfix.
-3. Commit your changes with clear messages.
-4. Create a pull request for review.
+Feel free to fork the repository and submit pull requests for improvements or new features.
